@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "AutoLetter", "AutoLetter\AutoLetter.cproj", "{9C307567-20F0-4D86-93F5-F6D18152E7B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C307567-20F0-4D86-93F5-F6D18152E7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C307567-20F0-4D86-93F5-F6D18152E7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C307567-20F0-4D86-93F5-F6D18152E7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C307567-20F0-4D86-93F5-F6D18152E7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AutoLetter\AutoLetter.cproj
+	EndGlobalSection
+EndGlobal

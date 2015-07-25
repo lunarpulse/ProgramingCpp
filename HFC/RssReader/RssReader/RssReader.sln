@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "RssReader", "RssReader\RssReader.cproj", "{8C57A03C-9282-4105-9504-E7CE14C05978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C57A03C-9282-4105-9504-E7CE14C05978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C57A03C-9282-4105-9504-E7CE14C05978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C57A03C-9282-4105-9504-E7CE14C05978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C57A03C-9282-4105-9504-E7CE14C05978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RssReader\RssReader.cproj
+	EndGlobalSection
+EndGlobal
