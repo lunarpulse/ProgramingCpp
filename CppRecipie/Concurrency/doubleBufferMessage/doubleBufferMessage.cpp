@@ -204,7 +204,7 @@ int main(int argc, char* argv[])
 	messageQueue.Add(bind(&RunningTotal::Finish, &runningTotal));
 	messageQueue.Swap();
 	 
-	cout << "The final total is : " << myFuture.get() << endl;
+	cout << "The final total is: " << myFuture.get() << endl;
 	 
 	return 0;
 }
