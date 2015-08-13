@@ -20,7 +20,7 @@ int main (int argc, char *argv[])
 //		fprintf(stderr, "Can't run script: %s\n", strerror(errno));
 //		return 1;
 //		}
-//		}
+
 
 		pid_t pid = fork();
 		if(pid ==-1)
@@ -31,7 +31,7 @@ int main (int argc, char *argv[])
 		
 		if(!pid)
 		{
-			if(execle("/home/lunarpulse/Documents/HFC/RssReader", "/home/lunarpulse/Documents/HFC/RssReader","./rssgossip.py", phrase, NULL, vars )==-1)
+			if(execle("/home/lunarpulse/Documents/vsCodeRepo/HFC/RssReader", "/home/lunarpulse/Documents/vsCodeRepo/HFC/RssReader","./rssgossip.py", phrase, NULL, vars )==-1)
 			{
 			fprintf(stderr, "Can't run script: %s\n", strerror(errno));
 			return 1;

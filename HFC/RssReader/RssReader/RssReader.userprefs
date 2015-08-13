@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="RssReader/RrsReader.c">
     <Files>
-      <File FileName="RssReader/RrsReader.c" Line="11" Column="15" />
+      <File FileName="RssReader/RrsReader.c" Line="17" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
